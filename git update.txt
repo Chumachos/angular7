@@ -1,3 +1,5 @@
 git add .
 git commit -m "Texto"
 git push -u origin master
+
+git pull origin master
